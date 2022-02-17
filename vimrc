@@ -11,6 +11,11 @@
 execute pathogen#infect()
 call pathogen#helptags()
 
+"Sourcing settings for ycm lsp servers
+"""""""""""""""""""""""""""""""""""""""
+source /home/glazov/.vim/bundle/ycm-lsp/vimrc.generated 
+
+
 "Key mappings
 """""""""""""""""""""""""""""""""""""""
 " Move between open buffers.
