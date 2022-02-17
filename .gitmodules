@@ -34,3 +34,6 @@
 [submodule "bundle/youcompleteme"]
 	path = bundle/youcompleteme
 	url = https://github.com/valloric/youcompleteme
+[submodule "bundle/ycm-lsp"]
+	path = bundle/ycm-lsp
+	url = https://github.com/ycm-core/lsp-examples
